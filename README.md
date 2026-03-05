@@ -36,6 +36,11 @@ BovineGuard is an IoT-based livestock monitoring system designed to track cattle
 - Cloud-based data storage
 - AI-based health prediction
 
+## Documentation
+
+The complete project documentation including system architecture and circuit diagrams is available below.
+[Project Report](documentation/Project_Report.pdf)
+
 ## Team
 
 This project was developed as part of a group project.
